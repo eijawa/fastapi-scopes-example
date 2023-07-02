@@ -1,0 +1,13 @@
+.vscode
+
+.venv
+.mypy_cache
+.pytest_cache
+__pycache__
+
+configs/*.env
+!configs/example.env
+
+alembic.ini
+
+*.db
